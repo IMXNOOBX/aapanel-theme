@@ -2,6 +2,9 @@
 
 ![Project Image](.github/aapanel-result.png)
 
+> [!NOTE]
+> AAPanel now supports custom themes, this repository is no longer needed, thanks AAPanel team!
+
 AApanel Theme Changer is a script to easily change the theme of the AAPanel site. This script allows users to apply a predefined theme to the site's CSS file, providing a more personalized experience. The script is a WIP so if you want to contribute, feel free to do so. There are many issues that need to be fixed and many features that need to be added.
 
 ## Features
